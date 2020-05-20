@@ -1,1 +1,0 @@
-{"image": 3, "queries": 600, "l2_norm": 6.1654767990112305, "original_prediction_vgg16": 3, "original_prediction_vgg19": 3, "adversarial_prediction_vgg16": 3, "adversarial_prediction_vgg19": 4}
